@@ -22,7 +22,7 @@ Analyze electromagnetic field distribution and radiation characteristics.
 
 ![image alt](https://github.com/def2c0sm1c/Vivaldi_Antenna/blob/a595d83d0fb6265a6991be746e94ed9ffa0d068f/Antenna_specifications.png)
 ## Design Parameters
-
+![image alt](https://github.com/def2c0sm1c/Vivaldi_Antenna/blob/7ce1f53a46818b4c68eccb8288b432003ea3ae9e/Design_parameters.png)
 
 ## Antenna Design
 
@@ -30,30 +30,36 @@ The Vivaldi antenna geometry was developed in ANSYS HFSS using a Rogers RT/Duroi
 
 During the design process, the taper dimensions were varied to improve impedance matching while maintaining resonance near 10 GHz. The finalized geometry was selected based on its superior S11 and VSWR performance.
 
-(Insert Design Image)
+# Top View
+![image alt](https://github.com/def2c0sm1c/Vivaldi_Antenna/blob/7ce1f53a46818b4c68eccb8288b432003ea3ae9e/Front_view.png)
+# Isometric view
+![image alt](https://github.com/def2c0sm1c/Vivaldi_Antenna/blob/7ce1f53a46818b4c68eccb8288b432003ea3ae9e/Isometric_view.png)
+# Bottom View
+![image alt](https://github.com/def2c0sm1c/Vivaldi_Antenna/blob/7ce1f53a46818b4c68eccb8288b432003ea3ae9e/Bottom_view.png)
 
 
 ## Parametric Optimization
 
 The antenna was optimized by varying the taper opening dimensions. Different combinations of opening width and taper length were analyzed to improve impedance matching near 10 GHz. The final configuration provided the best return loss and VSWR among the investigated designs.
 
+![image alt](https://github.com/def2c0sm1c/Vivaldi_Antenna/blob/7ce1f53a46818b4c68eccb8288b432003ea3ae9e/Optimizations.png)
 
 ## Simulation Results
 
 The optimized antenna resonates near 10 GHz with a minimum S11 of −36.0676 dB, indicating excellent impedance matching. The corresponding VSWR of 1.07 confirms efficient power transfer with minimal reflected power. Electromagnetic analysis through electric field, magnetic field, surface current distribution, and radiation pattern demonstrates the expected operating characteristics of the antenna at the design frequency.
 
-(Insert Final S11 Plot)
+![image alt](https://github.com/def2c0sm1c/Vivaldi_Antenna/blob/7ce1f53a46818b4c68eccb8288b432003ea3ae9e/Simulation_results.png)
 
 ## Electromagnetic Analysis
 
 Complete simulation outputs are available in the Simulation Results folder, including:
 
 Return Loss (S11)
-VSWR
-Electric Field Distribution
-Magnetic Field Distribution
-Surface Current Distribution
-Radiation Pattern
+-VSWR
+-Electric Field Distribution
+-Magnetic Field Distribution
+-Surface Current Distribution
+-Radiation Pattern
 
 
 ## Applications
