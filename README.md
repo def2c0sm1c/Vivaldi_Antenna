@@ -19,8 +19,8 @@ Evaluate antenna performance using S11 and VSWR.
 Analyze electromagnetic field distribution and radiation characteristics.
 
 ## Antenna Specifications
-![image alt]Antenna_specifications.pnghttps://github.com/def2c0sm1c/Vivaldi_Antenna/commit/17e67f9b1addd15ef5b65bad6af05d65cc80ec90
 
+![image alt](https://github.com/def2c0sm1c/Vivaldi_Antenna/blob/a595d83d0fb6265a6991be746e94ed9ffa0d068f/Antenna_specifications.png)
 ## Design Parameters
 
 
