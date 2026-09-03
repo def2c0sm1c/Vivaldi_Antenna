@@ -37,7 +37,6 @@ During the design process, the taper dimensions were varied to improve impedance
 ### Bottom View
 ![image alt](https://github.com/def2c0sm1c/Vivaldi_Antenna/blob/7ce1f53a46818b4c68eccb8288b432003ea3ae9e/Bottom_view.png)
 
-
 ## Parametric Optimization
 
 The antenna was optimized by varying the taper opening dimensions. Different combinations of opening width and taper length were analyzed to improve impedance matching near 10 GHz. The final configuration provided the best return loss and VSWR among the investigated designs.
@@ -61,14 +60,18 @@ Return Loss (S11)
 -Surface Current Distribution
 -Radiation Pattern
 
-
 ## Applications
-X-band antenna research
-Microwave engineering education
-Antenna optimization studies
-Electromagnetic simulation projects
-High-frequency communication research
-Radar and sensing research
+--X-band antenna research
+
+--Microwave engineering education
+
+--Antenna optimization studies
+
+--Electromagnetic simulation projects
+
+--High-frequency communication research
+
+--Radar and sensing research
 
 ### Skills Demonstrated
 ANSYS HFSS -
