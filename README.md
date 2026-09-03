@@ -42,7 +42,7 @@ During the design process, the taper dimensions were varied to improve impedance
 
 The antenna was optimized by varying the taper opening dimensions. Different combinations of opening width and taper length were analyzed to improve impedance matching near 10 GHz. The final configuration provided the best return loss and VSWR among the investigated designs.
 
-![image alt](https://github.com/def2c0sm1c/Vivaldi_Antenna/blob/7ce1f53a46818b4c68eccb8288b432003ea3ae9e/Optimizations.png)
+![image alt](https://github.com/def2c0sm1c/Vivaldi_Antenna/blob/b6efef4227c55deafd591df1adbafb126f290604/Optimizations.png)
 
 ## Simulation Results
 
