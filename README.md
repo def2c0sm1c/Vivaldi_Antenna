@@ -30,11 +30,11 @@ The Vivaldi antenna geometry was developed in ANSYS HFSS using a Rogers RT/Duroi
 
 During the design process, the taper dimensions were varied to improve impedance matching while maintaining resonance near 10 GHz. The finalized geometry was selected based on its superior S11 and VSWR performance.
 
-# Top View
+### Top View
 ![image alt](https://github.com/def2c0sm1c/Vivaldi_Antenna/blob/7ce1f53a46818b4c68eccb8288b432003ea3ae9e/Front_view.png)
-# Isometric view
+### Isometric view
 ![image alt](https://github.com/def2c0sm1c/Vivaldi_Antenna/blob/7ce1f53a46818b4c68eccb8288b432003ea3ae9e/Isometric_view.png)
-# Bottom View
+### Bottom View
 ![image alt](https://github.com/def2c0sm1c/Vivaldi_Antenna/blob/7ce1f53a46818b4c68eccb8288b432003ea3ae9e/Bottom_view.png)
 
 
